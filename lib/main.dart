@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
       title: 'AI Detector',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
-        primarySwatch: Colors.green,
+        primarySwatch: Colors.blue,
       ),
       home: const Home(),
     );
